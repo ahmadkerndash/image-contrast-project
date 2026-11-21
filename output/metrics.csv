@@ -1,0 +1,18 @@
+image,method,RMS Contrast,Entropy,AMBE
+sample_color_dark,Original,50.39,6.682,0.0
+sample_color_dark,Stretching,66.14,6.879,18.38
+sample_color_dark,HE,80.92,6.993,42.05
+sample_color_dark,CLAHE,63.94,7.064,23.84
+sample_color_dark,Gamma 0.6,63.21,6.691,31.26
+sample_color_dark,HE on RGB (naive),79.08,7.237,41.95
+sample_color_hazy,Original,20.34,6.156,0.0
+sample_color_hazy,Stretching,61.35,6.69,45.1
+sample_color_hazy,HE,72.06,6.698,20.24
+sample_color_hazy,CLAHE,31.26,6.942,9.41
+sample_color_hazy,Gamma 0.6,15.52,5.739,35.37
+sample_color_hazy,HE on RGB (naive),72.52,7.876,17.65
+sample_gray_lowcontrast,Original,22.1,5.508,0.0
+sample_gray_lowcontrast,Stretching,82.65,5.467,11.02
+sample_gray_lowcontrast,HE,74.03,5.451,2.63
+sample_gray_lowcontrast,CLAHE,29.15,6.618,2.83
+sample_gray_lowcontrast,Gamma 0.6,17.82,5.148,39.39
